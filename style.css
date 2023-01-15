@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+}
+
+body{
+  background-color:lightyellow; /* linear-gradient(45deg,blue,blueviolet,darkviolet,violet,blueviolet); */
+  background-size: 300% 330%;
+}
+
+.card img{
+  border-radius: 10px 10px 0 0;
+}
+.title{
+  margin:0;
+  background-color: rgb(255,0,100,0.4);
+  font-family: cursive;
+  color:purple;
+}
+
+
+.count{
+  color:lightgray;
+}
+.card{
+  background-color: white;
+  border-radius: 10px;
+}
